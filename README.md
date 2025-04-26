@@ -7,7 +7,8 @@ Criar uma aplicação com as seguintes funções:
   - Sacar
   - Extrato
   - Sair
-Regras:
+    
+#Regras:
 - O usuário só poderá executar 3 operações de saques diários;
 - O usuário, possui um valor de limte, caso o saldo do cliente será menor que o valor do saque o valor excedente poderá ser retirado do limite;
 - O valor do limite nunca poderá ser negativo;
