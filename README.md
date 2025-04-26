@@ -3,8 +3,8 @@ Projeto desenvolvido no Bootcamp Python Developer da DIO
 
 ## PRIMEIRA FASE
 Criar uma aplicação com as seguintes funções:
-  - Depositar
-  - Sacar
+  - Deposito
+  - Saque
   - Extrato
   - Sair
     
