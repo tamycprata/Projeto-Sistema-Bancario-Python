@@ -18,4 +18,10 @@ Criar uma aplicação com as seguintes funções:
 - Incluir a data e hora nas transações;
 - Só permitir a execução de 10 transações diárias.
 
+## TERCEIRA FASE
+- Inclusão do cadastro de clientes;
+- Inclusão do cadastro de conta e associação da conta ao cliente;
+
+## QUARTA FASE
+- Redesenho do código Orientado a Objetos de acordo com o Diagrama de Classes.
 - 
